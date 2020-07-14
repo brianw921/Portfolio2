@@ -8,14 +8,7 @@
 4.  HOME
 5.  SERVICE
 6.  ABOUT
-7.  TESTIMONIAL
-8.  FAQ
-9.  QUATE
-10. SUBSCRIBE
-11. PRICING
-12. BLOG
-13. FOOTER
-14. COPYRIGHT
+
 
 
 -------------------------------------------------------------------*/
@@ -121,7 +114,7 @@ p {
 
 a {
   text-decoration: none !important;
-  cursor: pointer;
+  
   padding: 0px;
   background-color: transparent;
   -moz-transition: color 0.3s ease;
